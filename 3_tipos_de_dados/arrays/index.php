@@ -2,7 +2,7 @@
 
 $a = [1, 2, 3, 4, 5]; // array com números inteiros
 
-print_r($a); // imprimi o array
+print_r($a); // print_r imprimi o array
 echo "<br>";
 
 echo $a[2]; // imprimi o indice 2 do array
