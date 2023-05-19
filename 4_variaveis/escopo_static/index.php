@@ -22,7 +22,6 @@ function testeStatic()
     echo "$a <br>"; // valor persiste em função de escopo local
 }
 
-
 testeStatic();
 testeStatic();
 testeStatic();
